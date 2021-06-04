@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NumberGuess</string>
+
+    <string name="bolded"><b>I am thinking of a number between 1 to 30</b></string>
+</resources>
